@@ -145,3 +145,25 @@ let countSort = arr => {
   <a href="">插入排序</a> </br>
   <a href="">希尔排序</a> </br>
   <a href="">基数排序</a> </br>
+  
+  ## 数据结构
+
+关键词：
+
+**数组**
+
+**哈希表**
+
+**队列Queue**
+
+queue.push为入队/queue.shift为出队
+
+**栈Stack**
+
+**链表Linked List**
+
+链表的变形有：双向链表和循环链表
+
+**树tree**
+
+建议阅读清华大学出版社出版的数据结构(C语言版)
